@@ -1,4 +1,4 @@
-import Array from "./Components/Array"
+import MainProps from "./Components/MainProps"
 
 const App = () => {
 
@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       
-     <Array />
+     <MainProps />
     </div>
   )
 }
