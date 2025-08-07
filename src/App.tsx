@@ -1,12 +1,12 @@
-import MainProps from "./Components/MainProps"
 
+import Interface from './Components/Interface';
 const App = () => {
 
 
   return (
     <div>
-      
-     <MainProps />
+      <Interface />
+  
     </div>
   )
 }
