@@ -1,14 +1,10 @@
 
-import Interface from './Components/Interface';
+import Sum from './Components/Funtions';
 const App = () => {
-
-
   return (
     <div>
-      <Interface />
-  
+     
     </div>
   )
 }
-
 export default App
