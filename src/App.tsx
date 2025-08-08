@@ -1,9 +1,9 @@
+import Enumration from "./Components/Enumration"
 
-import Sum from './Components/Funtions';
 const App = () => {
   return (
     <div>
-     
+          <Enumration />
     </div>
   )
 }
